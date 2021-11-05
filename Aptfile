@@ -1,1 +1,4 @@
-gdal-bin
+unixodbc
+unixodbc-dev
+python-pyodbc
+libsqliteodbc
